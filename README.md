@@ -1,4 +1,5 @@
 # data-types
+Type method()
 
 
 video link
