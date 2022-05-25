@@ -4,7 +4,7 @@
 # float data type:  float data type can be represent as decimal numbers, it may be +ve or -ve numbe 
 # string data type: Anything enclosed between single quotes or double quotesor three time single quotes or three times double quotes
 #Type method()
-
+ 
  
 #video link
 # https://bit.ly/3vNAbrN
