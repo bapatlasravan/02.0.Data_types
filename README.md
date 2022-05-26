@@ -5,6 +5,6 @@
 # string data type: Anything enclosed between single quotes or double quotesor three time single quotes or three times double quotes
 #Type method()
  
- 
+  
 #video link
 # https://bit.ly/3vNAbrN
